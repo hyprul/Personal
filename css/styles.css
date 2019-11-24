@@ -2,24 +2,27 @@ body {
     margin: 0px;
 }
 
-div {
-    background-color: #e3fdfd;
-}
+/* div {
+    background-color: #2b2e4a;
+} */
 
 h1 {
     margin-top: 0px;
 }
 
+.top-container {
+    background-color: #2b2e4a;
+}
 
-.middle {
-    background-color: #a6e3e9;
+.middle-container {
+    background-color: #e84545;
     height: 200px;
     width: 200px;
 }
 
-.bottom {
+.bottom-container {
 
-    background-color: #71c9ce;
+    background-color: #903749;
     height: 200px;
     width: 200px;
 }
