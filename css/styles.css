@@ -9,6 +9,10 @@ body {
 h1 {
     margin-top: 0px;
 }
+/* 
+img {
+    display: inline-block;
+} */
 
 .top-container {
     background-color: #2b2e4a;
@@ -26,3 +30,6 @@ h1 {
     width: 200px;
 }
 
+.pro {
+    text-decoration: underline;
+}
