@@ -31,6 +31,11 @@ h3 {
 
 a {
     color: #f9f7f7;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+    color: #dbe2ef;
 }
 
 hr {
@@ -64,7 +69,7 @@ img {
 
 .bottom-container {
     background-color: #112d4e;
-    padding-top: 50px;
+    padding: 50px 0 20px;
 }
 
 .pro {
@@ -113,7 +118,9 @@ img {
 
 .copyright {
     color: #eaf6f6;
+    padding-top: 30px;
     padding-bottom: 50px;
+    font-size: 0.8rem;
 }
 
 .footer-link {
