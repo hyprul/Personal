@@ -21,6 +21,7 @@ h2 {
     font-size: 2rem;
     color: #f9f7f7;
     font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
 }
 
 h3 {
@@ -38,8 +39,11 @@ hr {
     border-color: gray;
     border-width: 8px;
     width: 5%;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin: 50px auto;
+}
+
+p {
+    line-height: 2;
 }
 
 /* 
@@ -75,7 +79,7 @@ img {
 
 .bottom-cloud {
     position: absolute;
-    left: 300px;
+    left: 250px;
     bottom: 300px;
 }
 
@@ -84,10 +88,8 @@ img {
     color: #3f72af;
 }
 
-
 .profile-pic {
     margin-top: 50px;
-    border-radius: 10%;
     height: 200px;
 }
 
@@ -95,7 +97,6 @@ img {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
 }
 
 .skill-img {
@@ -118,6 +119,17 @@ img {
 .footer-link {
     margin: 50px;
 }
+
+.intro {
+    width: 35%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 40px;
+}
+
 
 /* 
 .code-description {
