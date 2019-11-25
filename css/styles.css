@@ -2,6 +2,7 @@ body {
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
+    color: #dbe2ef;
 }
 
 /* div {
@@ -23,7 +24,7 @@ h2 {
 }
 
 h3 {
-    color: #f9f7f7;
+    color: #3f72af;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -53,7 +54,7 @@ img {
 }
 
 .middle-container {
-   
+
     background-color: #112d4e;
 }
 
@@ -80,11 +81,12 @@ img {
 
 .subtitle {
     font-weight: normal;
+    color: #3f72af;
 }
 
 
 .profile-pic {
-    margin-top:50px;
+    margin-top: 50px;
     border-radius: 10%;
     height: 200px;
 }
@@ -114,10 +116,10 @@ img {
 }
 
 .footer-link {
-    padding: 30px;
+    margin: 50px;
 }
+
 /* 
 .code-description {
     clear: left;
 } */
-
