@@ -66,3 +66,12 @@ img {
     left: 300px;
     bottom: 300px;
 }
+
+.subtitle {
+    line-height: 2rem;
+    font-weight: normal;
+}
+
+.profile_pic {
+    border-radius: 10%;
+}
