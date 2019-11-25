@@ -109,9 +109,13 @@ img {
 }
 
 .copyright {
-    color: #eaf6f6
+    color: #eaf6f6;
+    padding-bottom: 50px;
 }
 
+.footer-link {
+    padding: 30px;
+}
 /* 
 .code-description {
     clear: left;
