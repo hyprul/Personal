@@ -37,6 +37,8 @@ hr {
     border-color: gray;
     border-width: 8px;
     width: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 /* 
@@ -51,6 +53,7 @@ img {
 }
 
 .middle-container {
+   
     background-color: #112d4e;
 }
 
@@ -78,6 +81,7 @@ img {
 .subtitle {
     font-weight: normal;
 }
+
 
 .profile-pic {
     margin-top:50px;
